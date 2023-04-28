@@ -1,5 +1,8 @@
 # About Me
 
+- What's really important?
+- Why am I doing What I am doing?
+
 ## Focus
 
 1. 主要用 react，看相关的内容
