@@ -5,8 +5,8 @@
 
 ## Focus
 
-1. 主要用 react，看相关的内容
-2. 在看nodejs相关的图书，目标是熟悉nodejs技术栈
+1. 前端主要用 React
+2. 后端在看 Nest.js、Node.js 相关内容，目标是掌握 Node.js 技术栈
 
 ## Contacts
 
