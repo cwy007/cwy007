@@ -1,7 +1,7 @@
 # About Me
 
 - What's really important?
-- Why am I doing What I am doing?
+- Why am I doing what I am doing?
 
 ## Focus
 
