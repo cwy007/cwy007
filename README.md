@@ -1,12 +1,21 @@
-# About Me
+# 技术栈
 
-- What's really important?
-- Why am I doing what I am doing?
+1. 前端
+- React
+- Mobx
+- Redux
 
-## Focus
+2.后端
+- Node.js
+- Nest.js
+- Prisma
 
-1. 前端主要用 React
-2. 后端在看 Nest.js、Node.js 相关内容，目标是掌握 Node.js 技术栈
+- MySql
+- Redis
+- MongoDB
+
+- Docker
+- Dcoker Compose
 
 ## Contacts
 
